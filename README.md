@@ -6,7 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 npm install -D tailwindcss\
 npm install react-router-dom\
-npm install sass
+npm install sass\
+npm install @heroicons/react\
+npm install @headlessui/react
 
 ## Available Scripts
 
